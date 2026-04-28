@@ -1,5 +1,5 @@
 # XeUnshackle
-![XeUnshackle_Banner](https://github.com/user-attachments/assets/af37d4ae-4ff6-4175-8f81-47869ff63ed6)
+![XeUnshackle_Banner](https://github.com/KingLouis0420/XeUnshackle/blob/main/Media/ShockwaveWormBoot.gif)
 
 Custom Xbox 360 application designed to be used with the [Xbox360BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate) exploit.  
 
